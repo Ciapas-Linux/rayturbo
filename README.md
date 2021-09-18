@@ -40,7 +40,7 @@ replace ndk version to fit, mine: 23.0.7599858<br/>
 replace java path and version, mine: /home/$USER/JDK/graalvm-ce-java16<br/>
 replace android sdk path to match you needs mine:  /home/$USER/Android/Sdk<br/>
 
-
+This below config is important for building raylib from sources and it comes in handy for the terminal operations.
 
 export JAVA_HOME="/home/$USER/JDK/graalvm-ce-java16"<br/>
 export ANDROID_SDK_ROOT=/home/$USER/Android/Sdk<br/>
