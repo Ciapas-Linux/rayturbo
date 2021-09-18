@@ -52,6 +52,9 @@ $JAVA_HOME/bin:\
 $ANDROID_NDK_HOME:\
 $ANDROID_HOME/bin"
 
+here is one line export path version:<br>
+export PATH="$PATH:$ANDROID_SDK_ROOT/build-tools/31.0.0:$ANDROID_SDK_ROOT/cmdline-tools/latest/bin:$ANDROID_SDK_ROOT/emulator:$ANDROID_SDK_ROOT/tools:$ANDROID_SDK_ROOT/platform-tools:$JAVA_HOME/bin:$ANDROID_NDK_HOME:$ANDROID_HOME/bin"
+
 
 Important!💣🧨<br/>
 Tips for Android studio:  consider change java version from 1.8 under project structure settings to java >= 11 , for build this project i use java 16 from:  https://www.graalvm.org/<br/> You can successfully use java provided by android studio or from debian repositories.<br/>
