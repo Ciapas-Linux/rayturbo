@@ -1,11 +1,11 @@
 # rayturbo
-Android studio native project template using cross platform raylib graphics library.<br/>
+<H3>Android studio native project template using cross platform raylib graphics library.</H3><br/>
 https://www.raylib.com/
 
 This project use Android Studio with gradle and cmake to easily build apk files for arm, arm64, x86, x86_64.
 
 <H4><p align="center">
-The raylib library is built in c, however this project is adapted to the c ++ language to be able to quickly prototype applications. (c / c++ mix)
+The raylib library is built in c, however this project is adapted to the c ++ language to be able to quickly prototype applications. (c / c++ mix) for that name contain turbo.
 </p></H4>
 
 /app/src/main/cpp/libs folder contain prebuilt version of debug static raylib for all mobile platforms.
